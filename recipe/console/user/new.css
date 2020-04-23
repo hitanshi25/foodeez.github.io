@@ -1,0 +1,11 @@
+
+      #loading
+      {
+      	position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #fff url('https://assets.materialup.com/uploads/1b49dbf6-f73b-4cbb-afb9-b4174ad6b7bd/preview.gif') no-repeat center;
+        z-index:99999;
+
+      }
+
